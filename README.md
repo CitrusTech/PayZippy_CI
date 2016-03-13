@@ -1,3 +1,8 @@
+PayZippy_CI
+
+PayZippy Library for Code Igniter
+==================================
+
 This software has been created under the Creative Commons License.
 
 What is this library ?
@@ -13,4 +18,5 @@ Payzippy code : www.payzippy.com
 Code Igniter : www.codeigniter.com
 
 Thats it ! For any questions or help please contact me via github. Thanks !
+
 
